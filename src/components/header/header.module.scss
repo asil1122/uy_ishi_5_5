@@ -1,0 +1,19 @@
+.header{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#172B56;
+}
+
+.block{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    justify-content: center;
+}
+
+.link{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 130%;
+    color: var(--white);
+}
